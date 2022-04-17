@@ -1,0 +1,15 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+}
+
+.Advertising_for_backpacks {
+  display: block;
+  background-image: url(image/person_in_jungle.png);
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
